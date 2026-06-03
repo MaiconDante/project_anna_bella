@@ -85,7 +85,7 @@ Projeto concluído conforme os objetivos e diretrizes propostas no curso.
 
 ## 👨‍💻 Autor
 
-**Maicon Birolo**
+**Maicon Dante**
 
 Graduado em Gestão da Tecnologia da Informação, graduando em Engenharia da Computação e pós-graduando em Desenvolvimento de Sistemas com Python.
 
