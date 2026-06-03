@@ -56,7 +56,7 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 1. Clone este repositório:
 
 ```bash
-git clone 
+git clone https://github.com/MaiconDante/Projeto_Anna_Bella.git
 ```
 
 2. Acesse a pasta do projeto.
